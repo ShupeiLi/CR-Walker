@@ -1,0 +1,6 @@
+transformers
+nltk
+torch-scatter
+termcolor
+spacy
+fuzzywuzzy
